@@ -67,4 +67,4 @@ AI **不給結論、不提供解答**，而是擔任批判性對話者：
 
 ## 🚀 快速上手 (Quick Start)
 
-[https://yuching1.github.io/Mementia/](https://yuching1.github.io/Mementia/)
+[https://yuching1.github.io/Mementia/Mementia](https://yuching1.github.io/Mementia/Mementia/)
