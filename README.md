@@ -3,10 +3,6 @@
 > *"The most thought-provoking thing in our thought-provoking time is that we are still not thinking."*  
 > —— Martin Heidegger, *What Is Called Thinking?*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-D4AF37?style=flat-square)](https://你的帳號.github.io/mementia/)
-[![Zero-Dependency](https://img.shields.io/badge/Dependencies-Zero-success?style=flat-square)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
-
 ---
 
 ## 🧭 設計初衷 (Design Philosophy)
