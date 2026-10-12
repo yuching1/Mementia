@@ -60,7 +60,6 @@ AI **不給結論、不提供解答**，而是擔任批判性對話者：
 
 ## 🛠️ 技術特點 (Technical Highlights)
 
-- **極簡零依賴 (Zero External Dependencies)**：單一檔案架構（Single-file HTML/CSS/Vanilla JS），無須 Node.js、Python 或任何後端伺服器。
 - **本機數據隱私 (Local-First Privacy)**：思辨日誌與沉思進程皆存於瀏覽器 `LocalStorage`，不向第三方伺服器傳輸隱私觀點。
 - **自適應展示設計 (Demo-Ready Switch)**：內建 Demo 模式切換器，兼顧真實沉思場景（5 分鐘）與演講／面試演示需求（10 秒）。
 - **沉浸式典雅介面 (Zen Editorial Aesthetic)**：黑曜石深岩暗色調搭配羊皮紙金點綴，襯線字型排版，打造無干擾的數位沉思室。
